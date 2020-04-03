@@ -19,7 +19,7 @@ background-color: #C2A073;
 .menu{
     float: right;
     background-color: black;
-    margin-bottom:10px;
+
     
 }
     
@@ -27,5 +27,6 @@ background-color: #C2A073;
     font-size: 25px;
     margin-left: 20px;
     color: white;
+        margin-bottom:10px;
 }
 
