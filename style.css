@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(225, 225,225);
+}
+h1{
+    margin-left: 40%;
+}
+h2{
+    margin-left: 25%;
+
+}
+.header{
+    background-color: cadetblue;
+    border: solid;
+}
+.header img{
+margin-left: 41%;
+background-color: #C2A073;
+}
+.menu{
+    float: right;
+    background-color: black;
+    
+}
+    
+.menu a {
+    font-size: 25px;
+    margin-left: 20px;
+    color: white;
+}
+
