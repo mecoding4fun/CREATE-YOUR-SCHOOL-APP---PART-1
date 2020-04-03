@@ -15,10 +15,11 @@ h2{
 .header img{
 margin-left: 41%;
 background-color: #C2A073;
-}
+ }
 .menu{
     float: right;
     background-color: black;
+    margin-bottom:10px;
     
 }
     
