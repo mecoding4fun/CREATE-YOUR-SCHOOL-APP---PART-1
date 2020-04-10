@@ -31,8 +31,10 @@ background-color: #C2A073;
         margin-bottom:10px;
 }
 .col1{
+    float:left;
 width:30%
 }
 .col2{
+    float:right;
 width:70%
 }
