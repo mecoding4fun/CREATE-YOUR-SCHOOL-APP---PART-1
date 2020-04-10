@@ -30,6 +30,10 @@ background-color: #C2A073;
     color: white;
         margin-bottom:10px;
 }
+.rw{
+    display: table;
+    background-color: cadetblue;
+}
 .col1{
     float:left;
 width:30%
