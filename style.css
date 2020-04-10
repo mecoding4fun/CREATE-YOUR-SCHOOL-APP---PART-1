@@ -34,7 +34,7 @@ background-color: #C2A073;
     display: table;
     background-color: cadetblue;
     clear: both;
-    
+    content: "";  
 }
 .col1{
     float:left;
