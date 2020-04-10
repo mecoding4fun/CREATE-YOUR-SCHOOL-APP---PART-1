@@ -11,6 +11,8 @@ h2{
 .header{
     background-color: cadetblue;
     border: solid;
+    display: table;
+
 }
 .header img{
 margin-left: 41%;
