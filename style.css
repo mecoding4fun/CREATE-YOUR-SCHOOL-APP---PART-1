@@ -11,7 +11,7 @@ h2{
 .header{
     background-color: cadetblue;
     border: solid;
-    display: table;
+    display: block;
 
 }
 .header img{
